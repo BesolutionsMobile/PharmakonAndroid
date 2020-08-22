@@ -23,7 +23,7 @@
             android:theme="@style/Base.Theme.AppCompat" />
 
 
-        <activity android:name=".ScenarioFarmakon.ScenarioCheckout.Controller.checkout"></activity>
+        <activity android:name=".ScenarioFarmakon.ScenarioCheckout.Controller.checkout"/>
         <activity android:name=".ScenarioFarmakon.ScenarioVouchers.Controller.Vouchers" />
         <activity android:name=".ScenarioFarmakon.ScenarioPrevouisOrders.Controller.Previous_Orders" />
         <activity android:name=".ScenarioFarmakon.ScenarioPersonalInfo.Controller.Personal_Info" />
